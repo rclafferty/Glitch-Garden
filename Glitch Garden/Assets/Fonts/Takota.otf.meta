@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e998f81cedf25fe4a8908515a4c4d606
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Takota
+  fontNames:
+  - Takota
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b83b1c37b7f53a848ab2c076ea0c759c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
