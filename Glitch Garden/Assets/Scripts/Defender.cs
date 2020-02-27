@@ -18,11 +18,11 @@ public class Defender : MonoBehaviour
         string name = gameObject.name.ToLower();
         if (name.Contains("cactus"))
         {
-            starCost = 100;
+            starCost = 50;
         }
         else if (name.Contains("trophy"))
         {
-            starCost = 50;
+            starCost = 25;
         }
         //starCost = 100;
     }

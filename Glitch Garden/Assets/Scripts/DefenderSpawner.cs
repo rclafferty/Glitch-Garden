@@ -42,11 +42,11 @@ public class DefenderSpawner : MonoBehaviour
 
             if (defenderName.Contains("trophy"))
             {
-                thisDefender.StarsCost = 50;
+                thisDefender.StarsCost = 35;
             }
             else if (defenderName.Contains("cactus"))
             {
-                thisDefender.StarsCost = 100;
+                thisDefender.StarsCost = 75;
             }
 
             Vector3 mousePosition = Input.mousePosition;
