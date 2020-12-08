@@ -124,6 +124,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Music Manager
       objectReference: {fileID: 0}
+    - target: {fileID: 8958096627520686737, guid: a5d3400f587fcda4db356dc4fc5e555a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8958096627520686766, guid: a5d3400f587fcda4db356dc4fc5e555a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1474,6 +1479,31 @@ PrefabInstance:
       propertyPath: m_Name
       value: Attack Spawners
       objectReference: {fileID: 0}
+    - target: {fileID: 5622989770565837655, guid: a495f344cda2e734b84cea1ac5c7c8c2,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5622989771113903847, guid: a495f344cda2e734b84cea1ac5c7c8c2,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5622989771006654446, guid: a495f344cda2e734b84cea1ac5c7c8c2,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5622989771125671330, guid: a495f344cda2e734b84cea1ac5c7c8c2,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5622989770436323912, guid: a495f344cda2e734b84cea1ac5c7c8c2,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 9163584103814850127, guid: a495f344cda2e734b84cea1ac5c7c8c2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1528,31 +1558,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5622989770436323912, guid: a495f344cda2e734b84cea1ac5c7c8c2,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5622989770565837655, guid: a495f344cda2e734b84cea1ac5c7c8c2,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5622989771006654446, guid: a495f344cda2e734b84cea1ac5c7c8c2,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5622989771125671330, guid: a495f344cda2e734b84cea1ac5c7c8c2,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5622989771113903847, guid: a495f344cda2e734b84cea1ac5c7c8c2,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 909797452706287311, guid: a495f344cda2e734b84cea1ac5c7c8c2,
         type: 3}
